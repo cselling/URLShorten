@@ -1,5 +1,7 @@
 # URLShorten
-url shortener written in python
+URL shortener written in python
+Used a dictionary to store key-value pairs
+Stored the Dictionary as a JSON file to save entries between sessions
 
 ## Libraries used:
   - webbrowser
