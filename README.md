@@ -16,3 +16,10 @@ Stored the Dictionary as a JSON file to save entries between sessions
   
 ## Json
   gave me easy to use file I/O to store my dictionary as a JSON file in between sessions
+
+### Pylint.jpeg
+  pylint evaluation of my source code
+  
+### PythonProject.jpeg
+  example of program opening up a shortened URL in my webbrowser
+  browser pointed to by 'path' variable
