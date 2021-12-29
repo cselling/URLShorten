@@ -18,6 +18,7 @@ Once the program is running, there will be several commands you can use:
    - Syntax:  'browse' [URL]
    - opens the website
  - Exit
+   - Syntax:  'exit'
    - closes the program
 
 ## Libraries used:
